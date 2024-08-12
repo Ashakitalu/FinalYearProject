@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363523472683",
+    "project_id": "coma-patient-care",
+    "storage_bucket": "coma-patient-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363523472683:android:c3b725b6082219484e196e",
+        "android_client_info": {
+          "package_name": "com.example.comapatientcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNtooBB65kM_--W_NUvVkPTWnl9C6K9Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
